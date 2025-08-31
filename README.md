@@ -10,12 +10,13 @@ Over the past few years I have collected a number of house plants that, due to w
 ## Screen shots
 ### Home page with no plants
 
-<img width="916" height="1716" alt="image" src="https://github.com/user-attachments/assets/a141d629-fbb7-4667-a62c-5ff76912d7eb" />
+<img src="https://github.com/user-attachments/assets/a141d629-fbb7-4667-a62c-5ff76912d7eb" alt="Home page with no plants" style="width: 40%;">
 
 ### Home page with plants
 
-<img width="1006" height="1712" alt="image" src="https://github.com/user-attachments/assets/803d5c12-5e9c-4c5c-a48e-8e269206b105" />
+<img src="https://github.com/user-attachments/assets/803d5c12-5e9c-4c5c-a48e-8e269206b105" alt="Home page with plants" style="width: 40%;">
 
 ### Notification page
 
-<img width="1020" height="1704" alt="image" src="https://github.com/user-attachments/assets/a881a332-327e-4092-881c-4ca54c009cc9" />
+<img src="https://github.com/user-attachments/assets/a881a332-327e-4092-881c-4ca54c009cc9" alt="Notification page" style="width: 40%;">
+
