@@ -1,5 +1,5 @@
-## Plant maangment app 🌱
-Over the past few years I have collected a number of house plants that, due to work and other commitments, have mostly died due to lack of proper care. Because of this I attempted to find and use a plant management app on the iOS store. These all unfortunatley are hidden under pay walls. I decided to solve this issue by creating my own app free from pay walls. 
+## Plant management app 🌱
+Over the past few years I have collected a number of house plants that, due to work and other commitments, have mostly died due to lack of proper care. Because of this, I attempted to find and use a plant management app on the iOS store. These all unfortunately are hidden under pay walls. I decided to solve this issue by creating my own app free from pay walls. 
 ## Tech stack
 - Flutter
 - SQLite
